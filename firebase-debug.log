@@ -1,0 +1,19 @@
+[debug] [2019-07-29T18:17:18.645Z] ----------------------------------------------------------------------
+[debug] [2019-07-29T18:17:18.656Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ali\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2019-07-29T18:17:18.656Z] CLI Version:   7.2.1
+[debug] [2019-07-29T18:17:18.657Z] Platform:      win32
+[debug] [2019-07-29T18:17:18.657Z] Node Version:  v10.15.3
+[debug] [2019-07-29T18:17:18.660Z] Time:          Mon Jul 29 2019 20:17:18 GMT+0200 (GMT+02:00)
+[debug] [2019-07-29T18:17:18.661Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=638135277&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2019-07-29T18:17:22.339Z] Error: spawn cmd ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:240:19)
+    at onErrorNT (internal/child_process.js:415:16)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[error] 
+[error] Error: An unexpected error has occurred.
